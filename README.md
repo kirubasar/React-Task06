@@ -43,4 +43,4 @@ This is a simple Todo application built with React. It allows to create, read, u
    - It provides functionality  to delete and update todos.
 ## Other works
  -  now our todos card display in browser. suppose the crud method doesn't work refresh then it work 
- - next push our folder to github      
+ - next push our folder to github and deployed it.     
